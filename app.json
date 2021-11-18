@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "uber-clone",
+    "name": "Uber Clone",
     "slug": "uber-clone",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/uber-logo.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "harshcreations.uber_clone",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
