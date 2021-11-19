@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "harshcreations.uber_clone",
+      "package": "com.harshcreations.uber_clone",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
